@@ -50,5 +50,5 @@ body {
 
 ## Author
 
-- Github - [Add your name here](https://github.com/ch4r4j4)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ch4r4j4)
+- Github - [Paul Charaja](https://github.com/ch4r4j4)
+- Frontend Mentor - [@ch4r4j4](https://www.frontendmentor.io/profile/ch4r4j4)
